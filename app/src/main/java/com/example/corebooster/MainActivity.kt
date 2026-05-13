@@ -13,6 +13,14 @@ import androidx.compose.ui.Modifier
 import androidx.compose.ui.tooling.preview.Preview
 import com.example.corebooster.ui.theme.CoreBoosterTheme
 
+
+
+/**
+ * Preview sectsssssion for the Greeting composable.
+ */
+
+
+
 class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
